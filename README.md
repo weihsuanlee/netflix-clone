@@ -5,5 +5,3 @@
 <br/>
 • DEMO連結：<br/>
 https://netflix-clone-af18d.web.app/<br/>
-• Github連結：<br/>
-https://github.com/weihsuanlee/netflix-clone
